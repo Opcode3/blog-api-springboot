@@ -16,5 +16,5 @@ public class UserResponse {
     private String name;
     private String email;
     private String avatar_url;
-    private Instant time;
+    private String time;
 }

@@ -14,7 +14,7 @@
 	<name>blog-api</name>
 	<description>This project is designed to manage the endpoints of a blog system</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		
